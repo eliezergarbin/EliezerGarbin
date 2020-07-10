@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/EliezerGarbin?style=social)](https://twitter.com/EliezerGarbin)
 
 
-### Hi, 👋
+## Hi, 👋
 
 I'm Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 
