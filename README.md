@@ -6,10 +6,16 @@
 ## 👋 Hello World, 
 My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 
+```bash
 - 🌱 I'm currently learning Docker, IA, React, Dart and of course, constantly improving my .NET.
 - 💬 Ask me about: technology, books, classical music and a little bit about lifestyle.
 - 🔍 you can find me: playing an instrument, studying, practicing some physical activity or just thinking...
 - ⚡ Technologies: .NET, SQL, JavaScript.
+```
+
+##
+
+</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezergarbin/)](https://www.linkedin.com/in/eliezergarbin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elieserdariogarbin@gmail.com)](mailto:elieserdariogarbin@gmail.com)
