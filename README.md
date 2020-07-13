@@ -3,7 +3,7 @@
 
 
 
-## 👋 Hi, 
+## 👋 Hello World, 
 My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 
 - 🌱 I'm currently learning Docker, IA, React, Dart and of course, constantly improving my .NET.
