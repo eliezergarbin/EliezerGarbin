@@ -1,5 +1,3 @@
-# Eliézer Garbin  👨‍💻
-
 ## 👋 Hello World, 
 My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 
