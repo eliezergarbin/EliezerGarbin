@@ -5,7 +5,7 @@ My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 - 💬 Ask me about: technology, books, classical music and a little bit about lifestyle.
 - 🔍 you can find me: playing an instrument, studying, practicing some physical activity or just thinking...
 - ⚡ Technologies: .NET, SQL, JavaScript.
-##
+#
 
 </br>
 
