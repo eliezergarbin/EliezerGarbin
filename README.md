@@ -25,4 +25,3 @@ My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 [![Twitter Badge](https://img.shields.io/twitter/follow/EliezerGarbin?style=social)](https://twitter.com/EliezerGarbin)
 
 "The man who takes many risks, ends up losing everything in the end... On the contrary, the one who does not want much, in the end he receives nothing"
-
