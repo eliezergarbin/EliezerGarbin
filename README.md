@@ -10,6 +10,9 @@ My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerGarbin&theme=dark&hide=glsl,python" alt=" Eliezer top languages on GitHub" 
 />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EliezerGarbin&show_icons=true&theme=dark&line_height=27" alt="Eliezer github stats" />
+</a>
   
 ###### *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
