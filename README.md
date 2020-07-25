@@ -5,16 +5,15 @@ My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 - 💬 Ask me about: technology, books, classical music and a little bit about lifestyle.
 - 🔍 you can find me: playing an instrument, studying, practicing some physical activity or just thinking...
 - ⚡ Technologies: .NET <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458498-ca0b2180-ce64-11ea-8169-05e66d1bf353.png"></code> , TypeScript <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458285-5288c280-ce63-11ea-9013-38f310fa26a9.png"></code> , SQL <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458631-ca57ec80-ce65-11ea-8511-41fec952946f.png"></code> , React <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458283-5288c280-ce63-11ea-8b5d-4893be81cec9.png"></code> , JavaScript <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458282-51f02c00-ce63-11ea-9dbb-3e4de5501683.png"></code> .
-
 #
 
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerGarbin&theme=radical&hide=glsl,python" alt=" Eliezer top languages on GitHub" />
-<br>  
-</br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerGarbin&theme=dark&hide=glsl,python" alt=" Eliezer top languages on GitHub" 
+/>
+  
+###### *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+
+&nbsp;
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezergarbin/)](https://www.linkedin.com/in/eliezergarbin/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elieserdariogarbin@gmail.com)](mailto:elieserdariogarbin@gmail.com) 
