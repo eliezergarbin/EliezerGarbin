@@ -7,10 +7,10 @@ My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 - ⚡ Technologies: .NET <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458498-ca0b2180-ce64-11ea-8169-05e66d1bf353.png"></code> , TypeScript <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458285-5288c280-ce63-11ea-9013-38f310fa26a9.png"></code> , SQL <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458631-ca57ec80-ce65-11ea-8511-41fec952946f.png"></code> , React <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458283-5288c280-ce63-11ea-8b5d-4893be81cec9.png"></code> , JavaScript <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458282-51f02c00-ce63-11ea-9dbb-3e4de5501683.png"></code> .
 #
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/EliezerGarbin?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerGarbin&theme=dark&hide=glsl,python" alt=" Eliezer top languages on GitHub" 
 />
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/EliezerGarbin">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EliezerGarbin&show_icons=true&theme=dark&line_height=27" alt="Eliezer github stats" />
 </a>
   
