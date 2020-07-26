@@ -8,7 +8,7 @@ My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 #
 
 <a href="https://github.com/EliezerGarbin?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerGarbin&theme=dark&hide=glsl,python" alt=" Eliezer top languages on GitHub" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerGarbin&layout=compact&theme=dark&hide=glsl,python" alt=" Eliezer top languages on GitHub" 
 />
  <a href="https://github.com/EliezerGarbin">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EliezerGarbin&show_icons=true&theme=dark&line_height=27" alt="Eliezer github stats" />
