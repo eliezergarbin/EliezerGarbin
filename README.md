@@ -23,6 +23,6 @@ My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elieserdariogarbin@gmail.com)](mailto:elieserdariogarbin@gmail.com) 
 [![Stack Overflow Badge](https://img.shields.io/badge/-StackOverflow-f48024?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13985606/eli%c3%a9zer-garbin?tab=profile)](https://stackoverflow.com/users/13985606/eli%c3%a9zer-garbin?tab=profile) 
 [![Dev.to Badge](https://img.shields.io/badge/-DEV.to-00000f?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/eliezergarbin)](https://dev.to/eliezergarbin) 
-[![Twitter Badge](https://img.shields.io/twitter/follow/EliezerGarbin?style=social)](https://twitter.com/EliezerGarbin)
+[![Twitter Badge](https://img.shields.io/twitter/follow/EliezerGarbin?color=White)](https://twitter.com/EliezerGarbin)
 
 "The man who takes many risks, ends up losing everything in the end... On the contrary, the one who does not want much, in the end he receives nothing"
