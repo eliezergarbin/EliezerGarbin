@@ -1,5 +1,5 @@
 ## 👋 Hello World, 
-My name is Eliezer Garbin, I'm a Junior developer. Just another tech lover💻
+My name is Eliezer Garbin, I'm a Junior developer.💻
 
 - 🌱 I'm currently learning Docker, IA, React, and of course, constantly improving my .NET.
 - 💬 Ask me about: technology, books, classical music and a little bit about lifestyle.
