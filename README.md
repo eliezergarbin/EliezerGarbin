@@ -23,4 +23,3 @@ My name is Eliezer Garbin.💻
 [![Twitter Badge](https://img.shields.io/twitter/follow/EliezerGarbin?color=White)](https://twitter.com/EliezerGarbin)
 [![Dev.to Badge](https://img.shields.io/badge/-DEV.to-00000f?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/eliezergarbin)](https://dev.to/eliezergarbin) 
 
-"The man who takes many risks, ends up losing everything in the end... On the contrary, the one who does not want much, in the end he receives nothing"
