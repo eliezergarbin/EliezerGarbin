@@ -3,7 +3,6 @@ My name is Eliezer Garbin.💻
 
 - 🌱 I'm currently learning Docker, IA, React, and of course, constantly improving my .NET.
 - 💬 Ask me about: technology, books, classical music and a little bit about lifestyle.
-- 🔍 you can find me: playing an instrument🎸, studying📚, practicing some physical activity⚽️ or just thinking🧠....
 - ⚡ Technologies: .NET <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458498-ca0b2180-ce64-11ea-8169-05e66d1bf353.png"></code> , TypeScript <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458285-5288c280-ce63-11ea-9013-38f310fa26a9.png"></code> , SQL <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458631-ca57ec80-ce65-11ea-8511-41fec952946f.png"></code> , React <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458283-5288c280-ce63-11ea-8b5d-4893be81cec9.png"></code> , JavaScript <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458282-51f02c00-ce63-11ea-9dbb-3e4de5501683.png"></code> .
 
 #
