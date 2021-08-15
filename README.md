@@ -6,15 +6,6 @@ My name is Eliezer.💻
 
 #
 
- <a href="https://github.com/EliezerGarbin">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EliezerGarbin&show_icons=true&theme=dark&line_height=27" alt="Eliezer github stats"/>
-
-  <a href="https://github.com/EliezerGarbin?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerGarbin&layout=compact&theme=dark&hide=glsl,python" alt=" Eliezer top languages on GitHub"/>
-</a>
- 
-###### *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
-
 &nbsp;
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elieserdariogarbin@gmail.com)](mailto:elieserdariogarbin@gmail.com) 
