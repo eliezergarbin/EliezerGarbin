@@ -1,5 +1,5 @@
 ## 👋 Hello World, 
-My name is Eliezer.💻
+My name is Eliezer.
 
 #
 
