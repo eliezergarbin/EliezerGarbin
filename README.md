@@ -1,13 +1,13 @@
 ## Hello World, 
 ```js
-export const developer = [
-    { 
-        name: "Eliezer Nascimento",
-        about: "A Computer Information Systems student",
-        age: 19,
-        currentFocus: "Java, NodeJS, React and Typescript",
-    }
-]
+const developer = {
+  name: "Eliezer Nascimento",
+  about: "A Computer Information Systems student",
+  code: [HTML, CSS, Javascript, Typescript],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  currentlyLearning: "Java",
+  age: 19,
+}
 
 ```
 
