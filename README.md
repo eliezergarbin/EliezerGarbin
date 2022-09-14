@@ -1,5 +1,15 @@
 ## Hello World, 
-My name is Eliezer and i am a Computer Information Systems student.
+```js
+export const developer = [
+    { 
+        name: "Eliezer Nascimento",
+        about: "A Computer Information Systems student",
+        age: 19,
+        currentFocus: "Java, NodeJS, React and Typescript",
+    }
+]
+
+```
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elieserdariogarbin@gmail.com)](mailto:eliezergarbin1@gmail.com) 
