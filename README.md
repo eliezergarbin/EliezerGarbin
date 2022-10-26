@@ -3,7 +3,7 @@ const developer = {
   name: "Eliezer Nascimento",
   about: "A Computer Information Systems student",
   code: [HTML, CSS, Javascript, Typescript, Java],
-  tools: [React, Redux, Node, Styled-Components, Docker],
+  tools: [React, Redux, Node, Docker],
   currentlyLearning: "Java",
   age: 19,
 }
