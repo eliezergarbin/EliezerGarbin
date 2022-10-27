@@ -4,7 +4,6 @@ const developer = {
   about: "A Computer Information Systems student",
   code: [HTML, CSS, Javascript, Typescript, Java],
   tools: [React, Redux, Node, Docker],
-  currentlyLearning: "Java",
   age: 19,
 }
 
