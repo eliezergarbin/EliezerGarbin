@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1150&width=435&lines=Hello+world%2C+my+name+is+Eliezer;I'm+graduating+in+Information+Systems;Be+welcome!+:%29)](https://git.io/typing-svg)
 ##
 
-```js
-const developer = {
-  name: "Eliezer Nascimento",
-  about: "A Computer Information Systems student",
-  code: [HTML, CSS, Javascript, Typescript, Java],
-  currentlylearning: "Spring Boot",
-  tools: [JPA, Hibernate, Spring Boot, React, Redux, Node, Docker],
-  age: 19,
+```json
+{
+  "name": "Eliezer Nascimento",
+  "about": "A Computer Information Systems student",
+  "code": ["HTML", "CSS", "Javascript", "Typescript", "Java"],
+  "tools": ["JPA", "Hibernate", "Spring Boot", "React", "Redux", "Node", "Docker"],
+  "currentlylearning": "JavaFX",
+  "age": 19
 }
 ```
 &nbsp;
