@@ -6,9 +6,9 @@
   "name": "Eliezer Nascimento",
   "about": "A Computer Information Systems student",
   "code": ["HTML", "CSS", "Javascript", "Typescript", "Java"],
-  "tools": ["JPA", "Hibernate", "Spring Boot", "React", "Node", "Docker"],
+  "tools": ["JPA", "Hibernate", "Spring Boot", "React", "Node", "Docker", "JUnit"],
   "currentlylearning": "JUnit",
-  "age": 19
+  "age": 20
 }
 ```
 &nbsp;
