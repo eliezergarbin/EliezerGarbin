@@ -7,7 +7,7 @@
   "about": "A Computer Information Systems student",
   "code": ["HTML", "CSS", "Javascript/Typescript", "Java"],
   "tools": ["JPA", "Hibernate", "Spring Boot", "JUnit", "Node", "React", "Docker"],
-  "currentlylearning": "JUnit",
+  "currentlylearning": "Design Patterns",
   "age": 20
 }
 ```
