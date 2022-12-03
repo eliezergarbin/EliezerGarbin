@@ -19,7 +19,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eliezergarbin&bg_color=0d1117&color=ffffff&line=559ace&point=1658c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eliezer github activity graph](https://activity-graph.herokuapp.com/graph?username=eliezergarbin&bg_color=0d1117&color=ffffff&line=559ace&point=1658c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### You can also find me at:
   [![Dev.to Badge](https://img.shields.io/badge/-DEV.to-000?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/eliezergarbin)](https://dev.to/eliezergarbin)
