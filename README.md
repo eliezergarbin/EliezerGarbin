@@ -12,7 +12,7 @@
 }
 ```
 &nbsp;
-
+&nbsp;
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliezergarbin&show_icons=true&count_private=true&hide_border=true&title_color=559ACE&icon_color=559ACE&text_color=c9d1d9&bg_color=0d1117" alt="Eliezer Nascimento github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezergarbin&layout=compact&hide_border=true&title_color=559ACE&text_color=c8d0d8&bg_color=0d1117" />
