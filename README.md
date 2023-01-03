@@ -6,7 +6,7 @@
   "name": "Eliezer Nascimento",
   "about": "A Computer Information Systems student",
   "code": ["HTML", "CSS", "Javascript/Typescript", "Java", "C#"],
-  "tools": ["JPA", "Spring Boot", "JUnit", ".Net", "Node", "React", "Redux", "SCSS", "Docker"],
+  "tools": ["JPA", "Spring Boot", "JUnit", ".Net", "Entity", "Node", "React", "Redux", "SCSS", "Docker"],
   "currentlylearning": "Kotlin",
   "age": 20
 }
