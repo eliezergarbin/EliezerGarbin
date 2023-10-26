@@ -5,8 +5,8 @@
 {
   "name": "Eliezer Nascimento",
   "about": "A Computer Information Systems student",
-  "code": ["HTML", "CSS", "Javascript/Typescript", "C#", "Java"],
-  "tools": ["JPA", "Spring Boot", "JUnit", ".Net", "EF", "Node", "React", "Redux", "SCSS", "Docker"],
+  "code": ["HTML", "CSS", "Javascript/Typescript", "Java"],
+  "tools": ["JPA", "Spring Boot", "JUnit", "Node", "React", "SCSS", "Docker"],
   "currentLearning" : "Software Architecture"
 }
 ```
