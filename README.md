@@ -3,7 +3,7 @@
 ```json
 {
   "name": "Eliezer Nascimento",
-  "about": "A Computer Information Systems student",
+  "about": "studying bachelor's degree in information systems",
   "code": ["HTML", "CSS", "Javascript/Typescript", "Java"],
   "tools": ["JPA", "Spring Boot", "JUnit", "Node", "React", "SCSS", "Docker"],
   "currentLearning" : "Software Architecture"
