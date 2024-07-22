@@ -2,14 +2,17 @@
 ```json
 {
   "name": "Eliezer Nascimento",
-  "about": "I am currently graduating from the Information Systems course at ESTACIO",
-           "and already trained as a computer technician at ETEC",
+  "about": [
+      "I am currently graduating from the Information Systems course at ESTACIO",
+      "and already trained as a computer technician at ETEC"],
   "code": ["HTML", "CSS", "Javascript/Typescript", "Java", "C#"],
   "tools": ["JPA", "Spring Boot", "JUnit", "Node", "React", "SCSS", "Docker"],
   "currentLearning" : "Software Architecture",
-  "communicate" : ["Portuguese (native language)"
-                  ,"English (intermediate)"
-                  ,"Italian (beginner)"]
+  "communicate":[
+      "Portuguese (native language)",
+      "English (intermediate)",
+      "Italian (beginner)"
+  ]
 }
 ```
 
