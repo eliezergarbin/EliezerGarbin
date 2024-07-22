@@ -2,7 +2,7 @@
 ```json
 {
   "name": "Eliezer Nascimento",
-  "about": [
+  "about":[
       "I am currently graduating from the Information Systems course at ESTACIO",
       "and already trained as a computer technician at ETEC"],
   "code": ["HTML", "CSS", "Javascript/Typescript", "Java", "C#"],
