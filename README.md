@@ -7,8 +7,7 @@
 
 ### Languages
 - 🇧🇷 Portuguese (native)  
-- 🇺🇸 English (intermediate)  
-- 🇮🇹 Italian (beginner)  
+- 🇺🇸 English (intermediate) 
 
 ---
 
